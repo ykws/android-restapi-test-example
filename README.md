@@ -1,4 +1,4 @@
-# GitHubClient
+# android-restapi-test-example
 
 [![Actions](https://github.com/ykws/android-restapi-test-example/workflows/Android%20CI/badge.svg)](https://github.com/ykws/android-restapi-test-example/actions)
 
